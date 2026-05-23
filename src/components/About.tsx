@@ -27,7 +27,7 @@ const About = () => (
               Origin Story
             </span>
             <h2 style={{ fontFamily: "'Sora', sans-serif", fontWeight: 700, fontSize: 'clamp(2rem, 4vw, 2.5rem)', lineHeight: 1.15, letterSpacing: '-0.02em', color: '#eadfed' }}>
-              Engineering the Future.
+              About Me
             </h2>
           </div>
 

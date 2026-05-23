@@ -76,19 +76,6 @@ const Hero = () => {
         {/* Left column */}
         <div className="lg:col-span-7 space-y-8">
 
-          {/* Tag pill */}
-          <motion.div
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.1 }}
-            className="glass-card-static w-fit flex items-center gap-3 px-4 py-2 rounded-full"
-          >
-            <span className="material-symbols-outlined text-primary" style={{ fontSize: 20 }}>terminal</span>
-            <span className="font-geist text-[11px] tracking-[0.2em] uppercase text-on-muted">
-              SYSTEMS • AI • STRATEGY
-            </span>
-          </motion.div>
-
           {/* Heading */}
           <motion.h1
             initial={{ opacity: 0, y: 20 }}

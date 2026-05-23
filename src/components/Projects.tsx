@@ -53,11 +53,8 @@ const Projects = () => (
         transition={{ duration: 0.6 }}
       >
         <div style={{ maxWidth: '40rem' }}>
-          <p style={{ fontFamily: "'Geist', monospace", fontSize: '11px', letterSpacing: '0.3em', textTransform: 'uppercase', color: '#ddb7ff', marginBottom: '1rem' }}>
-            Selected Works
-          </p>
           <h2 style={{ fontFamily: "'Sora', sans-serif", fontWeight: 700, fontSize: 'clamp(2rem, 4vw, 3rem)', letterSpacing: '-0.025em', lineHeight: 1.1, color: '#eadfed' }}>
-            Crafting Scalable Digital Experiences
+            Projects
           </h2>
         </div>
       </motion.div>

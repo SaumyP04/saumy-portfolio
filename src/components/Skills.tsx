@@ -33,11 +33,8 @@ const Skills = () => (
         className="skills-header"
       >
         <div>
-          <p style={{ fontFamily: "'Geist', monospace", fontSize: '11px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#ddb7ff', marginBottom: '0.5rem' }}>
-            Expertise
-          </p>
           <h2 style={{ fontFamily: "'Sora', sans-serif", fontWeight: 700, fontSize: 'clamp(2rem, 4vw, 2.5rem)', letterSpacing: '-0.02em', color: '#eadfed' }}>
-            Technical Arsenal
+            Technical Skills
           </h2>
         </div>
         <p style={{ fontFamily: "'Hanken Grotesk', sans-serif", fontSize: '1.05rem', lineHeight: 1.65, color: '#cfc2d6', maxWidth: '24rem' }}>

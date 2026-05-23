@@ -89,9 +89,6 @@ const Experience = () => (
         viewport={{ once: true }}
         transition={{ duration: 0.6 }}
       >
-        <p style={{ fontFamily: "'Geist',monospace", fontSize: '11px', letterSpacing: '0.3em', textTransform: 'uppercase', color: '#adc6ff', marginBottom: '1rem' }}>
-          The Journey
-        </p>
         <h2 style={{ fontFamily: "'Sora',sans-serif", fontWeight: 700, fontSize: 'clamp(2rem,4vw,2.5rem)', letterSpacing: '-0.02em', color: '#eadfed' }}>
           Professional Experience
         </h2>
