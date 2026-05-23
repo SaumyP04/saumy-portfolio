@@ -18,7 +18,7 @@ const Contact = () => (
             Saumy.dev
           </p>
           <p className="font-geist text-xs tracking-wider" style={{ color: '#cfc2d6' }}>
-            © {new Date().getFullYear()} Saumy Patel. Built for the future.
+            © {new Date().getFullYear()} Saumy Patel.
           </p>
         </div>
 
