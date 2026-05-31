@@ -100,7 +100,7 @@ const About = () => (
                 Minor in Finance
               </p>
               <p style={{ fontFamily: "'Geist', monospace", fontSize: '0.8rem', color: '#988d9f', marginTop: '0.5rem' }}>
-                Sep 2022 – Dec 2027 · Hamilton, ON
+                2022 – 2027 · Hamilton, ON
               </p>
             </div>
 
